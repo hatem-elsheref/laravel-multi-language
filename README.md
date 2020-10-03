@@ -26,3 +26,6 @@ There Are Many Ways To Built System With Multi Language you can use macamera bac
 * 2- in this file you can add more languages and to active language make the status key in array to true
 * 3- Make Other Model For The Existed Model as Post for the common and shared colimns => PostTranslation for the translated columns
 * the columns example post model has id and photo and created/updated _at  and translation => title/content/locale/post_id
+### Make Translation File Dynamic ###
+* make new file to control the template and views and other to control forms and validation
+* use translation method and translation save to store new keys note : this congigurations depended on the macamera package
