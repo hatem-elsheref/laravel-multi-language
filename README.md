@@ -1,4 +1,4 @@
-# Create Multo Language System With Your Own Code #
+# Create Multi Language System With Your Own Code #
 
 There Are Many Ways To Built System With Multi Language you can use macamera backage as a default package to manage youe locales or this code
 ### What is this repository for? ###
